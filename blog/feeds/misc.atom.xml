@@ -1,5 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623153網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623153/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623153/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623153/blog/</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2018分組網誌</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623153/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;week1.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623153網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623153/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623153/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623153/blog/</id><updated>2018-11-02T10:00:00+08:00</updated><entry><title>Week8</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog8.html" rel="alternate"></link><published>2018-11-02T10:00:00+08:00</published><updated>2018-11-02T10:00:00+08:00</updated><author><name>40623153</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40623153/blog/2018-Fall-Project-Blog8.html</id><summary type="html">&lt;p&gt;week1.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week1.&lt;/p&gt;
+
+
+&lt;h2&gt;課程倉儲&lt;/h2&gt;
+&lt;p&gt;利用 Github 倉儲存放與計算機程式相關的資料, 有幾項好處:&lt;/p&gt;
+&lt;p&gt;第一, 在不自建網站的情況下, 目前 Github 仍允許免費使用, 管理者除了可以利用網際模式將資料送到對應的 &lt;a href="https://github.com/mdecourse/cp2018"&gt;cp github 倉儲&lt;/a&gt;外, 也可以利用近端的 git 客戶端程式, 以分散式版次的流程管理各階段的改版資料.&lt;/p&gt;
+&lt;p&gt;第二, Github 提供的 Github Pages, 可以讓純 html 加上 Javascript 的網站, 直接在 &lt;a href="https://mdecourse.github.io/cp2018/"&gt;cp 課程網站&lt;/a&gt;伺服.&lt;/p&gt;
+&lt;p&gt;第三, 改版後的 CMSimfly, 加上 Pelican 靜態網誌與 Reveal.js 投影片系統, 均為靜態網站資料, 可以直接整合一起, 透過一個網址當作上課參考資料.&lt;/p&gt;
+&lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
+&lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
+&lt;p&gt;都可以.&lt;/p&gt;
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week7</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog7.html" rel="alternate"></link><published>2018-10-26T10:00:00+08:00</published><updated>2018-10-26T10:00:00+08:00</updated><author><name>40623153</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623153/blog/2018-Fall-Project-Blog7.html</id><summary type="html">&lt;p&gt;week1.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week1.&lt;/p&gt;
+
+
+&lt;h2&gt;課程倉儲&lt;/h2&gt;
+&lt;p&gt;利用 Github 倉儲存放與計算機程式相關的資料, 有幾項好處:&lt;/p&gt;
+&lt;p&gt;第一, 在不自建網站的情況下, 目前 Github 仍允許免費使用, 管理者除了可以利用網際模式將資料送到對應的 &lt;a href="https://github.com/mdecourse/cp2018"&gt;cp github 倉儲&lt;/a&gt;外, 也可以利用近端的 git 客戶端程式, 以分散式版次的流程管理各階段的改版資料.&lt;/p&gt;
+&lt;p&gt;第二, Github 提供的 Github Pages, 可以讓純 html 加上 Javascript 的網站, 直接在 &lt;a href="https://mdecourse.github.io/cp2018/"&gt;cp 課程網站&lt;/a&gt;伺服.&lt;/p&gt;
+&lt;p&gt;第三, 改版後的 CMSimfly, 加上 Pelican 靜態網誌與 Reveal.js 投影片系統, 均為靜態網站資料, 可以直接整合一起, 透過一個網址當作上課參考資料.&lt;/p&gt;
+&lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
+&lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
+&lt;p&gt;都可以.&lt;/p&gt;
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week6</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog6.html" rel="alternate"></link><published>2018-10-19T10:00:00+08:00</published><updated>2018-10-19T10:00:00+08:00</updated><author><name>40623153</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623153/blog/2018-Fall-Project-Blog6.html</id><summary type="html">&lt;p&gt;week1.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week1.&lt;/p&gt;
+
+
+&lt;h2&gt;課程倉儲&lt;/h2&gt;
+&lt;p&gt;利用 Github 倉儲存放與計算機程式相關的資料, 有幾項好處:&lt;/p&gt;
+&lt;p&gt;第一, 在不自建網站的情況下, 目前 Github 仍允許免費使用, 管理者除了可以利用網際模式將資料送到對應的 &lt;a href="https://github.com/mdecourse/cp2018"&gt;cp github 倉儲&lt;/a&gt;外, 也可以利用近端的 git 客戶端程式, 以分散式版次的流程管理各階段的改版資料.&lt;/p&gt;
+&lt;p&gt;第二, Github 提供的 Github Pages, 可以讓純 html 加上 Javascript 的網站, 直接在 &lt;a href="https://mdecourse.github.io/cp2018/"&gt;cp 課程網站&lt;/a&gt;伺服.&lt;/p&gt;
+&lt;p&gt;第三, 改版後的 CMSimfly, 加上 Pelican 靜態網誌與 Reveal.js 投影片系統, 均為靜態網站資料, 可以直接整合一起, 透過一個網址當作上課參考資料.&lt;/p&gt;
+&lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
+&lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
+&lt;p&gt;都可以.&lt;/p&gt;
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week5</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog5.html" rel="alternate"></link><published>2018-10-12T10:00:00+08:00</published><updated>2018-10-12T10:00:00+08:00</updated><author><name>40623153</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623153/blog/2018-Fall-Project-Blog5.html</id><summary type="html">&lt;p&gt;week1.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week1.&lt;/p&gt;
+
+
+&lt;h2&gt;課程倉儲&lt;/h2&gt;
+&lt;p&gt;利用 Github 倉儲存放與計算機程式相關的資料, 有幾項好處:&lt;/p&gt;
+&lt;p&gt;第一, 在不自建網站的情況下, 目前 Github 仍允許免費使用, 管理者除了可以利用網際模式將資料送到對應的 &lt;a href="https://github.com/mdecourse/cp2018"&gt;cp github 倉儲&lt;/a&gt;外, 也可以利用近端的 git 客戶端程式, 以分散式版次的流程管理各階段的改版資料.&lt;/p&gt;
+&lt;p&gt;第二, Github 提供的 Github Pages, 可以讓純 html 加上 Javascript 的網站, 直接在 &lt;a href="https://mdecourse.github.io/cp2018/"&gt;cp 課程網站&lt;/a&gt;伺服.&lt;/p&gt;
+&lt;p&gt;第三, 改版後的 CMSimfly, 加上 Pelican 靜態網誌與 Reveal.js 投影片系統, 均為靜態網站資料, 可以直接整合一起, 透過一個網址當作上課參考資料.&lt;/p&gt;
+&lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
+&lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
+&lt;p&gt;都可以.&lt;/p&gt;
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week4</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog4.html" rel="alternate"></link><published>2018-10-05T10:00:00+08:00</published><updated>2018-10-05T10:00:00+08:00</updated><author><name>40623153</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623153/blog/2018-Fall-Project-Blog4.html</id><summary type="html">&lt;p&gt;week1.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week1.&lt;/p&gt;
+
+
+&lt;h2&gt;課程倉儲&lt;/h2&gt;
+&lt;p&gt;利用 Github 倉儲存放與計算機程式相關的資料, 有幾項好處:&lt;/p&gt;
+&lt;p&gt;第一, 在不自建網站的情況下, 目前 Github 仍允許免費使用, 管理者除了可以利用網際模式將資料送到對應的 &lt;a href="https://github.com/mdecourse/cp2018"&gt;cp github 倉儲&lt;/a&gt;外, 也可以利用近端的 git 客戶端程式, 以分散式版次的流程管理各階段的改版資料.&lt;/p&gt;
+&lt;p&gt;第二, Github 提供的 Github Pages, 可以讓純 html 加上 Javascript 的網站, 直接在 &lt;a href="https://mdecourse.github.io/cp2018/"&gt;cp 課程網站&lt;/a&gt;伺服.&lt;/p&gt;
+&lt;p&gt;第三, 改版後的 CMSimfly, 加上 Pelican 靜態網誌與 Reveal.js 投影片系統, 均為靜態網站資料, 可以直接整合一起, 透過一個網址當作上課參考資料.&lt;/p&gt;
+&lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
+&lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
+&lt;p&gt;都可以.&lt;/p&gt;
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week3</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog3.html" rel="alternate"></link><published>2018-09-28T10:00:00+08:00</published><updated>2018-09-28T10:00:00+08:00</updated><author><name>40623153</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623153/blog/2018-Fall-Project-Blog3.html</id><summary type="html">&lt;p&gt;week1.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week1.&lt;/p&gt;
+
+
+&lt;h2&gt;課程倉儲&lt;/h2&gt;
+&lt;p&gt;利用 Github 倉儲存放與計算機程式相關的資料, 有幾項好處:&lt;/p&gt;
+&lt;p&gt;第一, 在不自建網站的情況下, 目前 Github 仍允許免費使用, 管理者除了可以利用網際模式將資料送到對應的 &lt;a href="https://github.com/mdecourse/cp2018"&gt;cp github 倉儲&lt;/a&gt;外, 也可以利用近端的 git 客戶端程式, 以分散式版次的流程管理各階段的改版資料.&lt;/p&gt;
+&lt;p&gt;第二, Github 提供的 Github Pages, 可以讓純 html 加上 Javascript 的網站, 直接在 &lt;a href="https://mdecourse.github.io/cp2018/"&gt;cp 課程網站&lt;/a&gt;伺服.&lt;/p&gt;
+&lt;p&gt;第三, 改版後的 CMSimfly, 加上 Pelican 靜態網誌與 Reveal.js 投影片系統, 均為靜態網站資料, 可以直接整合一起, 透過一個網址當作上課參考資料.&lt;/p&gt;
+&lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
+&lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
+&lt;p&gt;都可以.&lt;/p&gt;
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week2</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog2.html" rel="alternate"></link><published>2018-09-21T10:00:00+08:00</published><updated>2018-09-21T10:00:00+08:00</updated><author><name>40623153</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623153/blog/2018-Fall-Project-Blog2.html</id><summary type="html">&lt;p&gt;week1.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week1.&lt;/p&gt;
+
+
+&lt;h2&gt;課程倉儲&lt;/h2&gt;
+&lt;p&gt;利用 Github 倉儲存放與計算機程式相關的資料, 有幾項好處:&lt;/p&gt;
+&lt;p&gt;第一, 在不自建網站的情況下, 目前 Github 仍允許免費使用, 管理者除了可以利用網際模式將資料送到對應的 &lt;a href="https://github.com/mdecourse/cp2018"&gt;cp github 倉儲&lt;/a&gt;外, 也可以利用近端的 git 客戶端程式, 以分散式版次的流程管理各階段的改版資料.&lt;/p&gt;
+&lt;p&gt;第二, Github 提供的 Github Pages, 可以讓純 html 加上 Javascript 的網站, 直接在 &lt;a href="https://mdecourse.github.io/cp2018/"&gt;cp 課程網站&lt;/a&gt;伺服.&lt;/p&gt;
+&lt;p&gt;第三, 改版後的 CMSimfly, 加上 Pelican 靜態網誌與 Reveal.js 投影片系統, 均為靜態網站資料, 可以直接整合一起, 透過一個網址當作上課參考資料.&lt;/p&gt;
+&lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
+&lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
+&lt;p&gt;都可以.&lt;/p&gt;
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week1</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog1.html" rel="alternate"></link><published>2018-09-14T10:00:00+08:00</published><updated>2018-09-14T10:00:00+08:00</updated><author><name>40623153</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623153/blog/2018-Fall-Project-Blog1.html</id><summary type="html">&lt;p&gt;建立github倉儲&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;建立github倉儲&lt;/p&gt;
+
+
+&lt;h2&gt;操作內容&lt;/h2&gt;
+&lt;p&gt;1.先登入自己github帳號新增資料(學號.github.io)&lt;/p&gt;
+&lt;p&gt;2.認識設計系網站&lt;a href="http://mde.tw/#/"&gt;mde.tw&lt;/a&gt; ，本課程常用兩個連結&lt;a href="http://mde.tw/cadp2018/content/index.html"&gt;18CADP-I&lt;/a&gt;、 &lt;a href="https://www.youtube.com/channel/UCJ0Ye3mhMApH0yxAcwCXs5g"&gt;教學網站(Youtube教學網站&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.利用I進入github後領取作業、建立個人倉儲，開啟P37&amp;gt;利用git clone+個人倉儲&amp;gt;載下倉儲內容到個人隨身碟上&lt;/p&gt;
+&lt;p&gt;4.再將mdecourse/2018fall資料夾內的檔案複製到自己的資料夾(除了.git readme不取代)&lt;/p&gt;
+&lt;p&gt;5.開啟程式碼編輯，利用python指令開啟近端網站編輯&lt;/p&gt;
+&lt;p&gt;6.接著到瀏覽器上輸入https:localhost:8443,進去後先login ，密碼(admin)&lt;/p&gt;
+&lt;p&gt;7.輸入學號至標題&lt;/p&gt;
+&lt;p&gt;8.處理好後按generate_pages進行動態分頁轉至靜態分頁&lt;/p&gt;
+&lt;p&gt;9.開啟自己的Scite程式,到資料夾開啟http-server.py，並在tool點選Go&lt;/p&gt;
+&lt;p&gt;10.再到瀏覽器上打入https:localhost:8444&lt;/p&gt;
+&lt;p&gt;11.確認後回到黑框打入git add . git commit -m git push 等指令上傳至遠端&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;第一個禮拜接觸到github，覺得有些陌生，但經過與同學討論後對github漸漸熟悉，學會操作近端與遠端開啟，並學會更改內容後上傳至雲端。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018分組網誌</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623153/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;week1.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;week1.&lt;/p&gt;
 
 
