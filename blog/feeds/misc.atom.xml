@@ -20,7 +20,7 @@
 &lt;p&gt;2001:288:6004:17::3(系)&lt;/p&gt;
 &lt;p&gt;2001:288:6004:1::2  (校)&lt;/p&gt;
 &lt;p&gt;2001:b000:168::1(hinet)&lt;/p&gt;
-&lt;p&gt;Github遠端故障&lt;/p&gt;
+&lt;p&gt;Github遠端故障。&lt;/p&gt;
 &lt;p&gt;原因: 整體來講是因為網路故障產生問題且儲存的個人倉儲之位置也發生故障，導致多數人進行遠端傳送時有些許的問題出現,但近端仍有更改成功。&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
 &lt;p&gt;在這週github上傳頻頻出現錯誤，這讓我感到不知所措同時也詢問過很多同學，假設我只知道使用github一個遠端倉儲，而不會去連上其他可用的替代倉儲，那很可能會導致自己的資料在需要使用時無法及時更新，但這也需花時間去充分了解後才能做出應對處理，但遇到問題也才能有更多學習機會。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week6</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog6.html" rel="alternate"></link><published>2018-10-19T10:00:00+08:00</published><updated>2018-10-19T10:00:00+08:00</updated><author><name>40623153</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623153/blog/2018-Fall-Project-Blog6.html</id><summary type="html">&lt;p&gt;將個人倉儲中的flaskapp.py更新至最新版本&lt;/p&gt;
@@ -28,11 +28,11 @@
 
 
 &lt;h2&gt;操作內容&lt;/h2&gt;
-&lt;p&gt;1.上網搜尋github cmsimfly找到flaskapp.py並點入&lt;/p&gt;
-&lt;p&gt;2.將自己資料夾中的flaskapp.py拉進SciTE並將網路上的flaskapp.py內容複製並覆蓋掉原本的內容&lt;/p&gt;
-&lt;p&gt;3.打開Cmsimfly .leo&lt;/p&gt;
-&lt;p&gt;4.按Ctrl+i複製一個@clean flaskapp.py並將clean改成auto再把原本的@clean flaskapp.py刪掉後即可&lt;/p&gt;
-&lt;p&gt;5.人、事、時、地、物介紹及說明&lt;/p&gt;
+&lt;p&gt;1.上網搜尋github cmsimfly找到flaskapp.py並點入。&lt;/p&gt;
+&lt;p&gt;2.將自己資料夾中的flaskapp.py拉進SciTE並將網路上的flaskapp.py內容複製並覆蓋掉原本的內容。&lt;/p&gt;
+&lt;p&gt;3.打開Cmsimfly .leo。&lt;/p&gt;
+&lt;p&gt;4.按Ctrl+i複製一個@clean flaskapp.py並將clean改成auto再把原本的@clean flaskapp.py刪掉後即可。&lt;/p&gt;
+&lt;p&gt;5.人、事、時、地、物介紹及說明。&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
 &lt;p&gt;這週在進端編輯完成後遇到一些小問題，導致無法上傳至遠端，發現檔名不能互相覆蓋到及有些資料尚未合併，需先執行"git pull"指令後將資料合併在"git push"後即可成功上傳，雖然操作過程偶爾會遇到問題，但這也是額外的除錯學習機會。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week5</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog5.html" rel="alternate"></link><published>2018-10-12T10:00:00+08:00</published><updated>2018-10-12T10:00:00+08:00</updated><author><name>40623153</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623153/blog/2018-Fall-Project-Blog5.html</id><summary type="html">&lt;p&gt;Reveal、Pelican、Blog及Onshape操作練習&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Reveal、Pelican、Blog及Onshape操作練習&lt;/p&gt;
@@ -49,48 +49,48 @@
 
 
 &lt;h2&gt;操作內容&lt;/h2&gt;
-&lt;p&gt;1.認識並學習使用Onshpae繪製簡單圖形&lt;/p&gt;
-&lt;p&gt;2.建立 Onshape 帳號 - 請利用學校 gmail 建立教育版帳號&lt;/p&gt;
-&lt;p&gt;3.3D環境導航 ( navigate )&lt;/p&gt;
-&lt;p&gt;4.說明草圖 ( sketch-based )的介紹 4個基本特徵 (features)、擠出 ( extrude )、旋轉 ( revolve )、掃描 ( sweep )和斷面混成 ( loaf )&lt;/p&gt;
-&lt;p&gt;5.&lt;a href="http://mde.tw/cadp2018/downloads/1-1-Lesson%20Plan.pdf"&gt;onshape1-1Plan&lt;/a&gt; 閱讀此文章並將陌生單字翻譯後記錄在筆記&lt;/p&gt;
+&lt;p&gt;1.認識並學習使用Onshpae繪製簡單圖形。&lt;/p&gt;
+&lt;p&gt;2.建立 Onshape 帳號 - 請利用學校 gmail 建立教育版帳號。&lt;/p&gt;
+&lt;p&gt;3.3D環境導航 ( navigate )。&lt;/p&gt;
+&lt;p&gt;4.說明草圖 ( sketch-based )的介紹 4個基本特徵 (features)、擠出 ( extrude )、旋轉 ( revolve )、掃描 ( sweep )和斷面混成 ( loaf )。&lt;/p&gt;
+&lt;p&gt;5.&lt;a href="http://mde.tw/cadp2018/downloads/1-1-Lesson%20Plan.pdf"&gt;onshape1-1Plan&lt;/a&gt; 閱讀此文章並將陌生單字翻譯後記錄在筆記。&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;這禮拜摸索過才發現跟之前用的3D繪圖軟體差異不大，雖有些操作功能還不熟悉，看完基本介紹後已經能畫出來基本圖形了，但因之前都是自行設定功能的指令，在操作上有些不習慣，相信多操作後能夠架輕就熟。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week3</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog3.html" rel="alternate"></link><published>2018-09-28T10:00:00+08:00</published><updated>2018-09-28T10:00:00+08:00</updated><author><name>40623153</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623153/blog/2018-Fall-Project-Blog3.html</id><summary type="html">&lt;p&gt;管理個人進端與遠端之編輯及轉換&lt;/p&gt;
+&lt;p&gt;這禮拜摸索過才發現跟之前用的3D繪圖軟體差異不大，雖有些操作功能還不熟悉，看完基本介紹後已經能畫出來基本圖形了，但因之前都是自行設定功能的指令，在操作上有些不習慣，相信多操作後能夠駕輕就熟。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week3</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog3.html" rel="alternate"></link><published>2018-09-28T10:00:00+08:00</published><updated>2018-09-28T10:00:00+08:00</updated><author><name>40623153</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623153/blog/2018-Fall-Project-Blog3.html</id><summary type="html">&lt;p&gt;管理個人進端與遠端之編輯及轉換&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;管理個人進端與遠端之編輯及轉換&lt;/p&gt;
 
 
 &lt;h2&gt;操作內容&lt;/h2&gt;
-&lt;p&gt;1.到個人的動態https:localhost:8443內編輯內容,login(admin)&lt;/p&gt;
-&lt;p&gt;2.開始每周維護自己的網站內容&lt;/p&gt;
-&lt;p&gt;3.處理好後按generate_pages進行動態分頁轉至靜態分頁&lt;/p&gt;
-&lt;p&gt;4.開啟自己的Scite程式,到資料夾開啟http-server.py，並在tool點選Go&lt;/p&gt;
-&lt;p&gt;5.再到瀏覽器上打入https:localhost:8444檢查是否開啟及轉換成功&lt;/p&gt;
-&lt;p&gt;6.確認後回到黑框打入git add . git commit -m git push 等指令上傳至遠端&lt;/p&gt;
+&lt;p&gt;1.到個人的動態https:localhost:8443內編輯內容,login(admin)。&lt;/p&gt;
+&lt;p&gt;2.開始每周維護自己的網站內容。&lt;/p&gt;
+&lt;p&gt;3.處理好後按generate_pages進行動態分頁轉至靜態分頁。&lt;/p&gt;
+&lt;p&gt;4.開啟自己的Scite程式,到資料夾開啟http-server.py，並在tool點選Go。&lt;/p&gt;
+&lt;p&gt;5.再到瀏覽器上打入https:localhost:8444檢查是否開啟及轉換成功。&lt;/p&gt;
+&lt;p&gt;6.確認後回到黑框打入git add . git commit -m git push 等指令上傳至遠端。&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
 &lt;p&gt;經過了前二週的操作之後，對於github網站更為熟悉，也更進一步了解git的使用指令及使用時機，在https:localhost:8443更改完後,按generate_pages, 將動態分頁轉為靜態分頁，完成後再到https:localhost:8444檢查是否轉換成功，回到程式碼視窗打上git add .  git status .  git push等指令上傳至遠端，養成定期維護的習慣。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week2</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog2.html" rel="alternate"></link><published>2018-09-21T10:00:00+08:00</published><updated>2018-09-21T10:00:00+08:00</updated><author><name>40623153</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623153/blog/2018-Fall-Project-Blog2.html</id><summary type="html">&lt;p&gt;管理個人CMSimfly作業倉儲及ShareX錄製&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;管理個人CMSimfly作業倉儲及ShareX錄製&lt;/p&gt;
 
 
 &lt;h2&gt;操作內容&lt;/h2&gt;
-&lt;p&gt;1.從Settings裡面的Branches      將master改成gh-pages&lt;/p&gt;
-&lt;p&gt;2.設定ShareX的錄音、錄影與截圖設定&lt;/p&gt;
-&lt;p&gt;3.開啟近遠端的編輯及維護個人網站&lt;/p&gt;
+&lt;p&gt;1.從Settings裡面的Branches，將master改成gh-pages。&lt;/p&gt;
+&lt;p&gt;2.設定ShareX的錄音、錄影與截圖設定。&lt;/p&gt;
+&lt;p&gt;3.開啟近遠端的編輯及維護個人網站。&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
 &lt;p&gt;這禮拜使用sharex程式錄製操作影片，在更新完近端後推到雲端上發現檔案名稱不能重複，不然會出現近遠端呈現不一致的問題，培養出定期維護自己網誌的習慣，隨時掌握自己目前的學習進度。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week1</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog1.html" rel="alternate"></link><published>2018-09-14T10:00:00+08:00</published><updated>2018-09-14T10:00:00+08:00</updated><author><name>40623153</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623153/blog/2018-Fall-Project-Blog1.html</id><summary type="html">&lt;p&gt;建立github倉儲&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;建立github倉儲&lt;/p&gt;
 
 
 &lt;h2&gt;操作內容&lt;/h2&gt;
-&lt;p&gt;1.先登入自己github帳號新增資料(學號.github.io)&lt;/p&gt;
-&lt;p&gt;2.認識設計系網站&lt;a href="http://mde.tw/#/"&gt;mde.tw&lt;/a&gt; ，本課程常用兩個連結&lt;a href="http://mde.tw/cadp2018/content/index.html"&gt;18CADP-I&lt;/a&gt;、 &lt;a href="https://www.youtube.com/channel/UCJ0Ye3mhMApH0yxAcwCXs5g"&gt;教學網站(Youtube教學網站&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;3.利用I進入github後領取作業、建立個人倉儲，開啟P37&amp;gt;利用git clone+個人倉儲&amp;gt;載下倉儲內容到個人隨身碟上&lt;/p&gt;
-&lt;p&gt;4.再將mdecourse/2018fall資料夾內的檔案複製到自己的資料夾(除了.git readme不取代)&lt;/p&gt;
-&lt;p&gt;5.開啟程式碼編輯，利用python指令開啟近端網站編輯&lt;/p&gt;
-&lt;p&gt;6.接著到瀏覽器上輸入https:localhost:8443,進去後先login ，密碼(admin)&lt;/p&gt;
-&lt;p&gt;7.輸入學號至標題&lt;/p&gt;
+&lt;p&gt;1.先登入自己github帳號新增資料(學號.github.io)。&lt;/p&gt;
+&lt;p&gt;2.認識設計系網站&lt;a href="http://mde.tw/#/"&gt;mde.tw&lt;/a&gt; ，本課程常用兩個連結&lt;a href="http://mde.tw/cadp2018/content/index.html"&gt;18CADP-I&lt;/a&gt;、 &lt;a href="https://www.youtube.com/channel/UCJ0Ye3mhMApH0yxAcwCXs5g"&gt;教學網站(Youtube教學網站&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;3.利用I進入github後領取作業、建立個人倉儲，開啟P37&amp;gt;利用git clone+個人倉儲&amp;gt;載下倉儲內容到個人隨身碟上。&lt;/p&gt;
+&lt;p&gt;4.再將mdecourse/2018fall資料夾內的檔案複製到自己的資料夾(除了.git readme不取代)。&lt;/p&gt;
+&lt;p&gt;5.開啟程式碼編輯，利用python指令開啟近端網站編輯。&lt;/p&gt;
+&lt;p&gt;6.接著到瀏覽器上輸入https:localhost:8443,進去後先login ，密碼(admin)。&lt;/p&gt;
+&lt;p&gt;7.輸入學號至標題。&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;第一個禮拜接觸到github，覺得有些陌生，但經過與同學討論後對github漸漸熟悉，學會操作近端與遠端開啟，並學會更改內容後上傳至雲端。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018分組網誌</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623153/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;week1.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;week1.&lt;/p&gt;
+&lt;p&gt;第一個禮拜接觸到github，覺得有些陌生，但經過與同學討論後對github漸漸熟悉，學會操作近端與遠端開啟，並學會更改內容後上傳至雲端。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018分組網誌</title><link href="https://mdecadp2018.github.io/site-40623153/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623153/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
 &lt;h2&gt;課程倉儲&lt;/h2&gt;
